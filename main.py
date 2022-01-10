@@ -1,6 +1,6 @@
 mass_pass = input('What is the master password - ')
-
-if mass_pass == 'Kailasam123':
+#Based on Tech with Tim's project!
+if mass_pass == 'Password Here':
     print('Access Granted')
 else:
     print('Nice Try')
